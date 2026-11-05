@@ -1,4 +1,7 @@
-<!-- {"achilles-ide-document":{"id":"doc-8ed4ff63-aa64-42d0-acc0-03bbc3849f88","infoText":"document info domcument info, document info, document info \n","comments":{"infoTextTitle":"Document Info"},"updatedAt":"2026-09-03T07:32:37.063Z"}} -->
+<!-- {"achilles-ide-document":{"id":"doc-8ed4ff63-aa64-42d0-acc0-03bbc3849f88","infoText":"document info domcument info, document info, document info \n","comments":{"infoTextTitle":"Document Info","toc":{"collapsed":false},"tor":{"collapsed":false}},"updatedAt":"2026-11-05T20:50:59.253Z"}} -->
+## Table of Contents
+- [Chapter 1: Chapter 1](#chapter-chapter-c1061b9f-1ee3-480a-b4e9-857ed1d39fb5)
+
 <!-- {"achilles-ide-chapter":{"id":"chapter-c1061b9f-1ee3-480a-b4e9-857ed1d39fb5","title":"Chapter 1","anchorId":"chapter-chapter-c1061b9f-1ee3-480a-b4e9-857ed1d39fb5"}} -->
 <a id="chapter-chapter-c1061b9f-1ee3-480a-b4e9-857ed1d39fb5"></a>
 ## Chapter 1

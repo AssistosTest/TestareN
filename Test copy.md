@@ -1,4 +1,4 @@
-<!-- {"achilles-ide-document":{"id":"doc-a95e8615-e53f-4654-a301-8642ca489e7e","updatedAt":"2026-10-08T11:14:13.624Z"}} -->
+<!-- {"achilles-ide-document":{"id":"doc-a95e8615-e53f-4654-a301-8642ca489e7e","updatedAt":"2026-11-05T20:57:36.790Z"}} -->
 <!-- {"achilles-ide-chapter":{"id":"chapter-d1b9c2cc-d2e6-4367-bb02-bc3ce814f93f","title":"AchillesIDE","anchorId":"chapter-chapter-d1b9c2cc-d2e6-4367-bb02-bc3ce814f93f"}} -->
 <a id="chapter-chapter-d1b9c2cc-d2e6-4367-bb02-bc3ce814f93f"></a>
 # AchillesIDE
@@ -8,6 +8,9 @@
 <!-- {"achilles-ide-chapter":{"id":"chapter-1328239a-52dd-489e-a80a-71fe8fc698bf","title":"Prerequisites","anchorId":"chapter-chapter-1328239a-52dd-489e-a80a-71fe8fc698bf"}} -->
 <a id="chapter-chapter-1328239a-52dd-489e-a80a-71fe8fc698bf"></a>
 ## Prerequisites
+<!-- {"achilles-ide-paragraph":{"id":"paragraph-1b1ef088-3676-4571-b318-53b1ca8c0862","type":"markdown","pluginState":{"scripta":{"activeVariantId":"variant-04c8021f-193a-4937-a829-2307e169d398","reactionsByVariant":{"variant-04c8021f-193a-4937-a829-2307e169d398":{"participant-e7f4ee6290d792e800678953":{"reactedAt":"2026-11-05T20:57:23.365Z","type":"like","userHash":"participant-e7f4ee6290d792e800678953","userLabel":"Nicoleta"}},"variant-5aaad530-01c0-45bf-9a71-127783b5cf93":{"participant-e7f4ee6290d792e800678953":{"reactedAt":"2026-11-05T20:57:30.033Z","type":"like","userHash":"participant-e7f4ee6290d792e800678953","userLabel":"Nicoleta"}},"variant-b8b88f68-5148-4d4b-9355-0cda0c476598":{"participant-e7f4ee6290d792e800678953":{"reactedAt":"2026-11-05T20:57:02.623Z","type":"like","userHash":"participant-e7f4ee6290d792e800678953","userLabel":"Nicoleta"}}},"variants":[{"createdAt":"2026-11-05T20:57:23.365Z","createdBy":"participant-e7f4ee6290d792e800678953","id":"variant-04c8021f-193a-4937-a829-2307e169d398","images":[],"text":"nsabcjscdcsd","updatedAt":"2026-11-05T20:57:23.365Z"}]}}}} -->
+nsabcjscdcsd
+
 <!-- {"achilles-ide-paragraph":{"id":"paragraph-e82a6799-5755-457d-8d2a-9bcba61872c6","type":"markdown","commands":"@media_image_080ce8 attach id 58a97b871a9591b0dee80dd8fe7bccfe693a64e2b71a456a name \"ChatGPT Image Jun 25, 2026, 04_05_57 PM.png\" width 1254 height 1254 size 1953594\n@media_audio_c199c8 attach id a9e95323d98ca96e6844e6cd6b07507aee4324fcba959c5a name \"Kuntry Boy - Anno Domini Beats.mp3\" volume 50 duration 197.837823 loop false start 0 end 197.837823\n@media_image_90c51e attach id 0d7f0c8cede6599b8b93713b02ad280368d5506d0b1056de name abHNnzqXPAGMis0zci9Q--0--Pa3Qm.jpg width 768 height 1344 size 141157\n@ffmpeg_media_wuk8t1c ffmpegImageToVideo images [createJsonArray \"58a97b871a9591b0dee80dd8fe7bccfe693a64e2b71a456a\" \"0d7f0c8cede6599b8b93713b02ad280368d5506d0b1056de\"] audios [createJsonArray \"a9e95323d98ca96e6844e6cd6b07507aee4324fcba959c5a\"] duration 20 fps 30 width 1280 height 720 bg black","title":"Paragraph 1"}} -->
 - Node.js 20 or later.
 - The `ploinky` command-line tool.
